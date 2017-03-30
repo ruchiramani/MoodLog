@@ -43,3 +43,8 @@ You need composer in order to install laravel
          composer require laravel/browser-kit-testing
 
          vendor/bin/phpunit
+         
+         
+  6) Try it out here 
+  
+         http://tutorials-8hper-env.us-west-2.elasticbeanstalk.com/
